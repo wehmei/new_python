@@ -23,3 +23,6 @@ mean = summation_fx/summation_freq
 
 print(fx_list)
 print(f'the mean is {mean}')
+
+
+
